@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+>  
+> Write Less, Think More.
+
+[![dfang's github stats](https://github-readme-stats.vercel.app/api?username=dfang&show_icons=true&hide_title=false])](https://github.com/dfang)
